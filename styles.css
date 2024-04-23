@@ -1,0 +1,52 @@
+header, footer, section {
+    margin-bottom: 20px;
+}
+.profile {
+     position: fixed;
+    top: 10; /* Distance from the top */
+    right: 100; /* Distance from the right */
+    width: 100; /* Adjust width as needed */
+    height: 100; /* Adjust height as needed */
+   
+        
+}
+.profile img{
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+}
+
+
+h1, h2, h3 {
+    margin: 0;
+    color: goldenrod;
+}
+
+a {
+    color: blue;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.project h3 {
+    margin-bottom: 10px;
+}
+
+.project ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.project ul li {
+    margin-bottom: 5px;
+}
+/* Add these CSS rules to your existing styles.css */
+
+
+
+
+body {
+    background-color: #CCCCCC; 
+}
